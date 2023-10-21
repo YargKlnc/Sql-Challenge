@@ -1,6 +1,6 @@
-# This is SQL Challenge by YK 
+# SQL Challenge 
 
-UofT Data Analytics SQL Challenge
+UofT Data Analytics SQL Challenge by YK
 
 **"A research project about people who were employed by a technology company during the 1980s and 1990s."**
 
