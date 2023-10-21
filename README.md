@@ -1,17 +1,18 @@
-This is SQL Challenge by YK 
+# This is SQL Challenge by YK 
+
 UofT Data Analytics SQL Challenge
 
-***"A research project about people who were employed by a technology company during the 1980s and 1990s."
+**"A research project about people who were employed by a technology company during the 1980s and 1990s."**
 
 All the remains of the employee database from 1980s and 1990s are the six CSV files and all has been uploaded to data folder of this repository
 
 This research is divided into three parts: data modeling, data engineering, and data analysis.
 
-***Data Modeling
+**Data Modeling**
 
 All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD.
 
-***Data Engineering
+**Data Engineering**
 
 1.	A table schema created for each of the six CSV files.
 	
@@ -22,7 +23,7 @@ All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables be
 
 2.  Each CSV file imported into its corresponding SQL table.
 
-***Data Analysis
+**Data Analysis**
 
 All below has been listed.
 
