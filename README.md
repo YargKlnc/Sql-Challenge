@@ -10,7 +10,12 @@ This research is divided into three parts: data modeling, data engineering, and 
 
 **Data Modeling**
 
-All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD.
+All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD. All below downloaded from QuickDBD.
+
+• ERD-ScrnShot.png
+• QuickDBD-export-PDF.pdf 
+• QuickDBD-export-PNG.png 
+• QuickDBD-exportSQL.sql 
 
 **Data Engineering**
 
@@ -21,7 +26,7 @@ All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables be
 (Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row????????)
 • Tables created in the correct order to handle the foreign keys.
 
-2.  Each CSV file imported into its corresponding SQL table.
+2.  Each CSV file imported into its corresponding SQL table after converting the DATE columns in given EMPLOYEES data.
 
 **Data Analysis**
 
