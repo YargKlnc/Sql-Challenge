@@ -26,11 +26,15 @@ All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables be
 1.	A table schema created for each of the six CSV files.
 	
 • The data types, primary keys, foreign keys, and other constraints has been specified.
+
 • For the primary keys, verified that the column is unique. 
-(Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row????????)
+
 • Tables created in the correct order to handle the foreign keys.
 
-2.  Each CSV file imported into its corresponding SQL table after converting the DATE columns in given EMPLOYEES data.
+2. Columns that contains DATE has been converted in given EMPLOYEES data.
+
+3. Each CSV file imported into its corresponding SQL table.
+ 
 
 **Data Analysis**
 
