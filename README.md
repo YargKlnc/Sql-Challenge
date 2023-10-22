@@ -13,9 +13,13 @@ This research is divided into three parts: data modeling, data engineering, and 
 All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD. All below downloaded from QuickDBD.
 
 • ERD-ScrnShot.png
+
 • QuickDBD-export-PDF.pdf 
+
 • QuickDBD-export-PNG.png 
+
 • QuickDBD-exportSQL.sql 
+
 
 **Data Engineering**
 
