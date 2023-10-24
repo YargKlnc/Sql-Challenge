@@ -10,7 +10,9 @@ This research is divided into three parts: data modeling, data engineering, and 
 
 **Data Modeling**
 
-All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD. All below downloaded from QuickDBD.
+1. All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables been sketched. QuickDBDLinks was used as a tool for ERD. 
+
+2. All below downloaded from QuickDBD and added inside this folder.
 
 • ERD-ScrnShot.png
 
@@ -23,7 +25,7 @@ All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables be
 
 **Data Engineering**
 
-1.	A table schema created for each of the six CSV files.
+1. A table schema created for each of the six CSV files.
 	
 • The data types, primary keys, foreign keys, and other constraints has been specified.
 
