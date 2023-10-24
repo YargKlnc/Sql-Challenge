@@ -34,7 +34,7 @@ SELECT * FROM departments;
 
 CREATE TABLE dept_manager (
 	dept_no VARCHAR(10) REFERENCES departments(dept_no),
-	emp_no INT
+	emp_no INT NOT NULL
 );
 
 SELECT * FROM dept_manager;
@@ -48,7 +48,7 @@ SELECT * FROM dept_emp;
 
 CREATE TABLE salaries (
 	emp_no INT REFERENCES employees(emp_no),
-	salary INT
+	salary INT NOT NULL
 );
 
 SELECT * FROM salaries;
