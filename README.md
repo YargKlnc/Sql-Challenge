@@ -35,7 +35,7 @@ All the CSV files inspected, an ERD-Entity Relationship Diagram of the tables be
 
 3. Each CSV file imported into its corresponding SQL table.
 
-4. Employee_Schema.sql added in this folder 
+4. Employee_Schema.sql added inside this folder 
  
 
 **Data Analysis**
@@ -50,5 +50,5 @@ All below has been listed.
 6.	Each employee in the Sales department, including their employee number, last name, and first name.
 7.	Each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8.	The frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-9.	4. Employee_Queries.sql added in this folder
+9.	4. Employee_Queries.sql added inside this folder
 
